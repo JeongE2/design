@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c91522ad-70d8-4f53-b4af-9fd191cf6592" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/adapter/AirConditioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/adapter/Cleaner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/adapter/Electronic110V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/adapter/Electronic220V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/adapter/HairDryer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/adapter/SocketAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/aop/AopBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/proxy/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/proxy/BrowserProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/proxy/Html.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/proxy/IBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/singleton/AClazz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/singleton/BClazz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/singleton/SocketClient.java" afterDir="false" />
+    <list default="true" id="c91522ad-70d8-4f53-b4af-9fd191cf6592" name="Changes" comment="proxy">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +55,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662018440846</updated>
-      <workItem from="1662018442391" duration="3418000" />
+      <workItem from="1662018442391" duration="3736000" />
     </task>
+    <task id="LOCAL-00001" summary="proxy">
+      <created>1662022167523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662022167523</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="proxy" />
+    <option name="LAST_COMMIT_MESSAGE" value="proxy" />
   </component>
 </project>
