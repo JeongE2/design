@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c91522ad-70d8-4f53-b4af-9fd191cf6592" name="Changes" comment="proxy">
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/decorator/A3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/decorator/A4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/decorator/A5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/decorator/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/decorator/AudiDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/decorator/ICar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/decorator/Past.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/observer/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/design/observer/IButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/design/facade/Ftp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/design/facade/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/design/facade/SftpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/design/facade/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/design/strategy/AppendStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/design/strategy/Base64Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/design/strategy/Encoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/design/strategy/EncodingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/design/strategy/NormalStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/where.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/design/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/design/Main.java" afterDir="false" />
     </list>
